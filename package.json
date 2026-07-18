@@ -91,7 +91,7 @@
     ]
   },
   "dependencies": {
-    "@ai-sdk/openai-compatible": "^3.0.11",
+    "@ai-sdk/openai-compatible": "^3.0.12",
     "@fontsource/roboto": "^5.2.10",
     "ai": "^7.0.28",
     "beercss": "^4.0.23",
