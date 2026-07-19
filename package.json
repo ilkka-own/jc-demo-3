@@ -92,7 +92,7 @@
   },
   "dependencies": {
     "@ai-sdk/openai-compatible": "^3.0.11",
-    "@fontsource/roboto": "^5.2.10",
+    "@fontsource/roboto": "^5.3.0",
     "ai": "^7.0.28",
     "beercss": "^4.0.23",
     "body-parser": "^2.3.0",
